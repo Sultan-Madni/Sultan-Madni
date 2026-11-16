@@ -87,7 +87,7 @@
 
 ###
 
-### 📊 Contribution Heatmap & Activity
+<h2 data-importer="text" align="left">📊 Contribution Heatmap & Activity:</h2>
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse;">
@@ -102,20 +102,3 @@
     </tr>
   </table>
 </div>
-
----
-
-
-### 💡 Daily Engineering Thought
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dynamic Programming Quote" />
-  </picture>
-</div>
-
-<br/>
-
----
