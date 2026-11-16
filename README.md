@@ -86,7 +86,3 @@
 </div>
 
 ###
-
-<h2 data-importer="text" align="left">📊 Contribution Heatmap & Activity:</h2>
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Sultan-Madni/Sultan-Madni/snake-output/snake.svg" alt="Snake animation" />
