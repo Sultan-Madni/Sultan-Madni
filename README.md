@@ -87,6 +87,35 @@
 
 ###
 
-<h2 data-importer="text" align="left">📊 Contribution Heatmap & Activity:</h2>
+### 📊 Contribution Heatmap & Activity
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Sultan-Madni/Sultan-Madni/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 20px; background: transparent;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codexahmar/CodeXahmar/output/github-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codexahmar/CodeXahmar/output/github-snake.svg" />
+          <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/codexahmar/CodeXahmar/output/github-snake.svg" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
+### 💡 Daily Engineering Thought
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dynamic Programming Quote" />
+  </picture>
+</div>
+
+<br/>
+
+---
